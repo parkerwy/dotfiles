@@ -153,7 +153,7 @@ if $COLORTERM == 'gnome-terminal'
 endif
 
 try
-    colorscheme solarized
+    colorscheme solarized8_flat
 catch
 endtry
 
